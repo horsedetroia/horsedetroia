@@ -10,4 +10,5 @@
 | HTML    | Advanced      |
 | CSS     | Intermediate     |
 | Git     | Essential      |
+| C#      | Essential      |
 
