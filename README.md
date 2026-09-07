@@ -9,6 +9,6 @@
 | ----------- | ----------- |
 | HTML    | Advanced      |
 | CSS     | Intermediate     |
-| Git     | Essential      |
-| Python  | Essential      |
+| Git     | Intermediate     |
+| C# | Essential      |
 
